@@ -30,7 +30,7 @@ snake's body\*)
 
 - When I first started to design the Body and Snake class in the model package, I thought each Body needs to have its
 own direction, so it knows where to move next. However, I then figured out it's enough to let only the Snake knows 
-the direction for all body segments. I want to *remove the fields used for the directions* in Body class, \*add an Enum 
-class for the directions\*, and construct an **association from Snake class to the new Enum class**. 
+the direction for all body segments. I want to *remove the fields used for the directions* in Body class, *add an Enum 
+class for the directions*, and construct an **association from Snake class to the new Enum class**. 
 	- The method changeDirection in SnakeGame will also be changed as one Snake has one direction
 	- Edits will also need to be done in Body and Snake class, and many tests
