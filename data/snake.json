@@ -1,0 +1,22 @@
+{
+    "peaX": 347,
+    "score": 2,
+    "peaY": 193,
+    "bodies": [
+        {
+            "bodyX": 70,
+            "bodyY": 370,
+            "direction": 0
+        },
+        {
+            "bodyX": 55,
+            "bodyY": 370,
+            "direction": 0
+        },
+        {
+            "bodyX": 40,
+            "bodyY": 370,
+            "direction": 0
+        }
+    ]
+}

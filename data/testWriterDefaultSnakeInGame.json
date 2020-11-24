@@ -1,0 +1,10 @@
+{
+    "peaX": 50,
+    "score": 0,
+    "peaY": 50,
+    "bodies": [{
+        "bodyX": 250,
+        "bodyY": 250,
+        "direction": 0
+    }]
+}
